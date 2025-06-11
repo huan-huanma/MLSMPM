@@ -1,7 +1,6 @@
 # MLSMPM
 MLSMPM for large deformation problems
-# 1D Elastic Bar Vibration Simulation using MLS-MPM
-
+# 1D Elastic Bar Vibration Simulation using MLS-MPM at MLSMPM/master/
 This MATLAB script implements the **Moving Least Squares Material Point Method (MLS-MPM)** for simulating the transient vibration of a **1D elastic bar**. The approach combines meshfree MLS shape functions with MPM.
 
 ---
